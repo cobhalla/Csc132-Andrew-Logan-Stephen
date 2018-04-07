@@ -2,7 +2,13 @@
 # Adrew Hall
 # a basic game as proof of concept for integrating tkinter and GPIO
 #################################################################################
-
+'''
+necicary gifs:
+"Gangsta.gif"
+"Goblin.gif"
+"RedGoblin.gif"
+"EggPyre.gif"
+'''
 
 
 ##############
